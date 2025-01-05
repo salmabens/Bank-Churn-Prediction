@@ -20,24 +20,24 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
    ```
 
 2. Créer un environnement virtuel :
-   #### *Sous Windows :
+   #### Sous Windows :
          
    ```bash
    python -m venv env
    ```
-   #### *Sous macOS/Linux :
+   #### Sous macOS/Linux :
          
    ```bash
    python3 -m venv env
    ```
 3. Activer l'environnement virtuel :
 
-   ### *Sous Windows :
+   #### Sous Windows :
    
    ```bash
    .\env\Scripts\activate
    ```
-   ### *Sous macOS/Linux :
+   #### Sous macOS/Linux :
    
    ```bash
    source env/bin/activate
