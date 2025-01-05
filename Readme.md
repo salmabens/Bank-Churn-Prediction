@@ -12,27 +12,41 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
 
 ## Installation
 
-# 1. Cloner le dépôt sur votre machine
-git clone https://github.com/salmabens/bank-churn-prediction.git
-cd bank-churn-prediction
+1. Cloner le dépôt sur votre machine :
+   
+bash
+   git clone https://github.com/salmabens/bank-churn-prediction.git
+   cd bank-churn-prediction
 
-# 2. Créer un environnement virtuel
-### Sous Windows
-python -m venv env
 
-### Sous macOS/Linux
-python3 -m venv env
+2. Créer un environnement virtuel :
+### Sous Windows :
+         
+bash
+         python -m venv env
 
-# 3. Activer l'environnement virtuel
-### Sous Windows
-.\env\Scripts\activate
+### Sous macOS/Linux :
+         
+bash
+         python3 -m venv env
 
-### Sous macOS/Linux
-source env/bin/activate
+3. Activer l'environnement virtuel :
 
-# 4. Installer les dépendances avec pip
-pip install -r requirements.txt
+### Sous Windows :
+   
+bash
+   .\env\Scripts\activate
 
+### Sous macOS/Linux :
+   
+bash
+   source env/bin/activate
+
+
+4. Installer les dépendances avec pip :
+   
+bash
+   pip install -r requirements.txt
 ## Structure des fichiers
 ``` 
 /Data             # Contient les jeux de données
