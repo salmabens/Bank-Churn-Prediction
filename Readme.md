@@ -17,17 +17,17 @@ git clone https://github.com/salmabens/bank-churn-prediction.git
 cd bank-churn-prediction
 
 # 2. Créer un environnement virtuel
-# Sous Windows
+### Sous Windows
 python -m venv env
 
-# Sous macOS/Linux
+### Sous macOS/Linux
 python3 -m venv env
 
 # 3. Activer l'environnement virtuel
-# Sous Windows
+### Sous Windows
 .\env\Scripts\activate
 
-# Sous macOS/Linux
+### Sous macOS/Linux
 source env/bin/activate
 
 # 4. Installer les dépendances avec pip
