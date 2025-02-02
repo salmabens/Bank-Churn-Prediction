@@ -59,7 +59,7 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
     └── XGboost_predictions.csv   # Second modèle le plus performant
 /Notebook.ipynb      # Contient le notebook principal
 /Présentation.pdf    # Contient le support de présentation
-/README.md           # Ce fichier
+/README.md           # Documentation du projet
 /Requirements.txt    # Liste des dépendances Python
 ```
 ## Contributeurs
